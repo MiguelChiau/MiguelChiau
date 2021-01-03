@@ -6,8 +6,6 @@ In Spring of 2020 I graduated from Quest University Canada with a dual bachelor 
 during my sophomore year, and I took as many programming courses as were offered I then enrolled on a Web development coding bootcamp, BrainStation in Vancouver, the summer after my junior year.
 
 - 🔭 I’m currently looking for an entry level developer position.
-- 📚 I’m currently working on some front-end development projects using ReactJS and MaterialUS
+- 📚 I’m currently working on some front-end projects using ReactJS and MaterialUS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/miguel-chiau-b328b6ba/) [Gmail](mailto:chiau.miguel@gmail.com)
 
-
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=MiguelChiau&show_icons=true&theme=dark)
