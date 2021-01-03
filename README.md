@@ -9,5 +9,5 @@ during my sophomore year, and I took as many programming courses as were offered
 - 📚 I’m currently working on some front-end development projects using ReactJS and MaterialUS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/miguel-chiau-b328b6ba/) [Gmail](mailto:chiau.miguel@gmail.com)
 
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
+
+![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=MiguelChiau&show_icons=true&theme=dark)
