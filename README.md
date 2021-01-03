@@ -7,7 +7,9 @@ I'm a Web developer passionate about building beautiful web applications with a 
 
 - 🔭 I’m currently looking for a junior developer position.
 - 📚 I’m currently working on Full Stack Development Projects
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/miguel-chiau-b328b6ba/) [Gmail](mailto:chiau.miguel@gmail.com)
+- 📫 You can reach me on: [Linkedin](https://www.linkedin.com/in/miguel-chiau-b328b6ba/) [Gmail](mailto:chiau.miguel@gmail.com)
+<a href = "https://miguelchiau.com/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Portfolio Site </a>
+
 
 <div>
   <h3> 💻 Languages and Tools </h3>
