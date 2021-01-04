@@ -2,13 +2,13 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a Web developer passionate about building beautiful web applications with a minimalistic UI.
+I'm a Web developer who is passionate about building beautiful web applications with a minimalistic UI.
 
 
 - 🔭 I’m currently looking for a junior developer position.
 - 📚 I’m currently working on Full Stack Development Projects
 - 📫 You can reach me on: [Linkedin](https://www.linkedin.com/in/miguel-chiau-b328b6ba/) [Gmail](mailto:chiau.miguel@gmail.com)
-<a href = "https://miguelchiau.com/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Portfolio Site </a>
+<a href = "https://miguelchiau.com/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
 
 
 <div>
