@@ -5,7 +5,7 @@
 I'm a Web developer who is passionate about building beautiful web applications with a minimalistic UI.
 
 
-- 🔭 I’m currently looking for a junior developer position.
+- 🔭 I’m currently looking for a developer position.
 - 📚 I’m currently working on Full Stack Development Projects
 - 📫 You can reach me on: [Linkedin](https://www.linkedin.com/in/miguel-chiau-b328b6ba/) [Gmail](mailto:chiau.miguel@gmail.com)
 <a href = "https://miguelchiau.com/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
